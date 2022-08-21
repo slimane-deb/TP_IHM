@@ -1,0 +1,1 @@
+grande 1.5 moyenne 1 petite 0.5  
